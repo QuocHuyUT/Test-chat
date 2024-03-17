@@ -1,0 +1,6 @@
+1. ID
+2. Display name
+3. Thread ID 
+############
+Write function add, get data from database .
+write function creat identity and add display name , chat thread.
